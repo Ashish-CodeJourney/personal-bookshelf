@@ -1,0 +1,5 @@
+# CODEOWNERS file
+# This file specifies code owners for the repository.
+
+# Assigning ownership of the entire repository to @Ashish-CodeJourney
+*     @Ashish-CodeJourney
